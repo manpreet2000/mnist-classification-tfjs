@@ -1,0 +1,24 @@
+#canvas {
+position: absolute;
+top: 100;
+left: 100;
+border: 8px solid;
+}
+
+#canvasimg{
+    position:absolute;
+    top:10%;
+    left:52%;
+    display:none;
+}
+
+#classify {
+    position:absolute;
+    top:400;
+    left:100;
+}
+#clear {
+    position:absolute;
+    top:400;
+    left:180;
+}
