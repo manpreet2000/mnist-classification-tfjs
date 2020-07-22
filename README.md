@@ -22,6 +22,10 @@ open <mnist.html> in browser
 ```
 After training of model it will automatically let you draw on canvas.
 
+## Contributions
+
+Any type of contribution is welcome.
+
 ## Contact
 
 If you want to contact me you can reach me at <manpreetsingh5772000@gmail.com>.
