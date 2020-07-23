@@ -1,0 +1,25 @@
+#canvas {
+    position: absolute;
+    top:100 ;
+    left: 100;
+    border: 6px solid;
+
+}
+#imgcanvas {
+    position: absolute;
+    top: 10%;
+    left: 52%;
+    width:280;
+    height:280;
+    display:none;
+}
+#sb {
+    position:absolute;
+    top:400;
+    left:100;
+}
+#cb {
+    position:absolute;
+    top:400;
+    left:200;
+}
